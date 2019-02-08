@@ -7,7 +7,8 @@ portfolio_App
 https://i.imgur.com/dLFz70Z.gifv
 <a href="https://imgur.com/dLFz70Z"><img src="https://i.imgur.com/dLFz70Z.gif" title="source: imgur.com" /></a>
 
- 
+ ![1](https://user-images.githubusercontent.com/47424425/52463888-063cba80-2bbc-11e9-9b42-f9a5907fbdad.gif)
+
  
  
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
