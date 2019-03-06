@@ -1,5 +1,5 @@
 
-<h4 align="center">먼저 채팅을 걸어오는 방식의 점을 둔 인공지능 금융친구 플차별리케이션   </h4>
+# 먼저 채팅을 걸어오는 방식의 점을 둔 인공지능 금융친구 애플차별리케이션  
 
 <h1 align="center">
   <br>
@@ -7,6 +7,7 @@
   <br>
 </h1>
 
+# 실제 작동 화면
 <h1 align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/47424425/52467823-1c517780-2bca-11e9-8a96-07ac87b599ee.gif"  width="300">
