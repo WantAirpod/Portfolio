@@ -15,33 +15,33 @@
 # 설계한 아키텍쳐 구상도
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854189-c5de2a00-400b-11e9-8021-91a94812514e.PNG"  width="650">
+  <img src="https://user-images.githubusercontent.com/47424425/53854189-c5de2a00-400b-11e9-8021-91a94812514e.PNG"  width="700">
   <br>
 </h1>
 
 # 시컨스 흐름도
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/52467823-1c517780-2bca-11e9-8a96-07ac87b599ee.gif"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53854597-6d0f9100-400d-11e9-8727-13466e6af960.PNG"  width="500">
   <br>
 </h1>
 
 # 수정 이력
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/52467823-1c517780-2bca-11e9-8a96-07ac87b599ee.gif"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53854595-6aad3700-400d-11e9-978e-f3b7191ad161.PNG"  width="300">
   <br>
 </h1>
 
 # 트리 구조
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854452-e0fd6980-400c-11e9-9006-f8cc705af348.PNG"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53854452-e0fd6980-400c-11e9-9006-f8cc705af348.PNG"  width="600">
   <br>
  </h1>
  <h1 align="center">
     <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854453-e22e9680-400c-11e9-87d5-95065e941891.PNG"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53854453-e22e9680-400c-11e9-87d5-95065e941891.PNG"  width="600">
   <br>
  </h1>
 
