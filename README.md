@@ -22,14 +22,14 @@
 # 시컨스 흐름도
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53856125-0c378700-4014-11e9-93d9-84399e69d9ce.png"  width="800">
+  <img src="https://user-images.githubusercontent.com/47424425/53856714-81a45700-4016-11e9-8d93-b6165ab60706.png"  width="800">
   <br>
 </h1>
 
 # 수정 이력
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53856594-e317f600-4015-11e9-87be-8c0a6b9206d2.png"  width="600">
+  <img src="https://user-images.githubusercontent.com/47424425/53856594-e317f600-4015-11e9-87be-8c0a6b9206d2.png"  width="700">
   <br>
 </h1>
 
@@ -49,6 +49,6 @@
 # 개발 환경
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53856043-9b906a80-4013-11e9-93fc-fde32e2d2ae6.png"  width="500">
+  <img src="https://user-images.githubusercontent.com/47424425/53856043-9b906a80-4013-11e9-93fc-fde32e2d2ae6.png"  width="700">
   <br>
 </h1>
