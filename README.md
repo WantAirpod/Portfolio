@@ -22,33 +22,33 @@
 # 시컨스 흐름도
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854597-6d0f9100-400d-11e9-8727-13466e6af960.PNG"  width="500">
+  <img src="https://user-images.githubusercontent.com/47424425/53856125-0c378700-4014-11e9-93d9-84399e69d9ce.png"  width="800">
   <br>
 </h1>
 
 # 수정 이력
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854595-6aad3700-400d-11e9-978e-f3b7191ad161.PNG"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53854595-6aad3700-400d-11e9-978e-f3b7191ad161.PNG"  width="600">
   <br>
 </h1>
 
 # 트리 구조
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854452-e0fd6980-400c-11e9-9006-f8cc705af348.PNG"  width="600">
+  <img src="https://user-images.githubusercontent.com/47424425/53856190-486ae780-4014-11e9-8447-77ff99c22fd9.png"  width="750">
   <br>
  </h1>
  <h1 align="center">
     <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854453-e22e9680-400c-11e9-87d5-95065e941891.PNG"  width="600">
+  <img src="https://user-images.githubusercontent.com/47424425/53856192-49037e00-4014-11e9-960c-1130f14259a9.png"  width="750">
   <br>
  </h1>
 
  
-# 챗봇 구조
+# 개발 환경
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/52467823-1c517780-2bca-11e9-8a96-07ac87b599ee.gif"  width="300">
+  <img src="https://user-images.githubusercontent.com/47424425/53856043-9b906a80-4013-11e9-93fc-fde32e2d2ae6.png"  width="500">
   <br>
 </h1>
