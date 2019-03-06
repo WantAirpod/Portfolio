@@ -15,7 +15,7 @@
 # 설계한 아키텍쳐 구상도
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854189-c5de2a00-400b-11e9-8021-91a94812514e.PNG"  width="700">
+  <img src="https://user-images.githubusercontent.com/47424425/53856575-d1365300-4015-11e9-85e0-acb8fd85121a.png"  width="700">
   <br>
 </h1>
 
@@ -29,7 +29,7 @@
 # 수정 이력
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/47424425/53854595-6aad3700-400d-11e9-978e-f3b7191ad161.PNG"  width="600">
+  <img src="https://user-images.githubusercontent.com/47424425/53856594-e317f600-4015-11e9-87be-8c0a6b9206d2.png"  width="600">
   <br>
 </h1>
 
