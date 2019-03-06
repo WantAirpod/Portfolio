@@ -25,6 +25,7 @@
   <img src="https://user-images.githubusercontent.com/47424425/52467823-1c517780-2bca-11e9-8a96-07ac87b599ee.gif"  width="300">
   <br>
 </h1>
+
 # 수정 이력
 <h1 align="center">
   <br>
@@ -37,10 +38,13 @@
   <br>
   <img src="https://user-images.githubusercontent.com/47424425/53854452-e0fd6980-400c-11e9-9006-f8cc705af348.PNG"  width="300">
   <br>
-  <br>
+ </h1>
+ <h1 align="center">
+    <br>
   <img src="https://user-images.githubusercontent.com/47424425/53854453-e22e9680-400c-11e9-87d5-95065e941891.PNG"  width="300">
   <br>
  </h1>
+
  
 # 챗봇 구조
 <h1 align="center">
